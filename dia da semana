@@ -1,0 +1,10 @@
+let diaSemana = prompt('Que dia é hoje? ');
+
+if(diaSemana ==='Sábado'){
+    alert('Bom final de semana');
+
+}else if(diaSemana === 'Domingo'){
+    alert('Bom final de semana!!');
+}else{
+    alert('Boa semana pra vc!!');
+}
