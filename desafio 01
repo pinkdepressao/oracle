@@ -1,0 +1,13 @@
+let idadeUsuario = prompt('Digite a sua idade: ');
+
+let nomeUsuario = prompt('Digite a seu nome: ');
+
+if( idadeUsuario >=18){
+    alert(nomeUsuario + ' você já pode tirar a habilitação!!');
+
+} else{
+    alert(nomeUsuario + ' espere mais um pouquinho :((');
+
+}
+
+//desafios do primeiro curso do oracle next one, usei os conceitos de variavel, prompts e alertas, tentando mesclar alguns conceitos para deixar um pouco mais legal 
