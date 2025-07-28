@@ -1,0 +1,7 @@
+let regre = prompt('Digite um número da sua preferencia:  ');
+
+while(regre >= 1){
+    regre --;
+    alert(regre);
+
+}
